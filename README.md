@@ -1,6 +1,8 @@
 
 # Regressão Linear para o ramo imobiliário
 
+
+
 Este projeto utiliza um dataset com os preços das casas na cidade americana de Boston.
 Foram utilizadas neste projeto técnicas avançadas de modelagem como Stacking, 
 análises estatisticas e transformações logarítmicas e de BoxCox. Se você pretende 
@@ -29,7 +31,6 @@ vender um imóvel e gostaria de saber qual valor pedir, este algoritmo é para v
 ## Contribuir
 
 Contribuições são sempre bem vindas, só fazer um fork e um pull request. 
-Melhorias são sempre bem vindas
 
 
 ## Features
