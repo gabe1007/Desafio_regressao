@@ -1,7 +1,7 @@
 
 # Regressão Linear para o ramo imobiliário
 
-
+<img src="/line_chart.jpg" alt="Tanzania Tourism Prediciton App" />
 
 Este projeto utiliza um dataset com os preços das casas na cidade americana de Boston.
 Foram utilizadas neste projeto técnicas avançadas de modelagem como Stacking, 
