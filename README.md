@@ -33,14 +33,6 @@ vender um imóvel e gostaria de saber qual valor pedir, este algoritmo é para v
 Contribuições são sempre bem vindas, só fazer um fork e um pull request. 
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
 ## Feedback
 
 Se você possui alguma dúvida ou sugestão gabriel1007@yahoo.com
